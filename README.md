@@ -1,9 +1,19 @@
-# DBM-65k: A Unified Framework for Data-Centric Bridge Damage Identification 🌉
+### 📦 模型权重与配置文件下载
 
-本工作基于构建的包含 65,000 多张真实无人机巡检图像的大规模基准数据集 **DBM-65k**，为真实复杂工程场景下的桥梁结构健康检测提供了坚实的数据与算法基础。
+由于模型权重文件较大，我们将训练权重统一托管在了 **Kaggle 平台**。您可以点击以下链接获取对应任务的完整资源：
 
-本项目全面兼容 Ultralytics 平台。您可以直接使用yolo标准测试代码加载我们开源的模型权重，在真实场景下进行快速的病害检测与分割测试；同时，这些权重也完全支持作为高质量的预训练基座，帮助您在自定义的桥梁数据集上进行微调与继续训练，大幅加速模型收敛并提升泛化能力。
+### 📦 Model Weights & Configuration Files Download
 
-This work builds upon the large-scale benchmark dataset **DBM-65k**, containing over 65,000 real-world UAV inspection images, providing a solid data and algorithmic foundation for bridge structural health monitoring in complex engineering scenarios.
+Due to the large size of the model weight files, we have centrally hosted the training weights on the **Kaggle platform**. You can click the following link to obtain the complete resources for the corresponding task:
 
-This project is fully compatible with the Ultralytics platform. You can directly load our open-source model weights using the standard YOLO test code to perform rapid defect detection and segmentation tests in real-world scenarios. Simultaneously, these weights also fully support high-quality pre-training bases, helping you fine-tune and continue training on custom bridge datasets, significantly accelerating model convergence and improving generalization capabilities.
+* **[DBM-Con](https://www.kaggle.com/datasets/zjw1176380908/dbm-con)**
+* **[DBM-Stl](https://www.kaggle.com/datasets/zjw1176380908/dbm-stl)**
+* **[DBM-Comp](https://www.kaggle.com/datasets/zjw1176380908/dbm-comp)**
+* **[DBM-Conseg置](https://www.kaggle.com/datasets/zjw1176380908/dbm-conseg)**
+* **[DBM-Stlseg](https://www.kaggle.com/datasets/zjw1176380908/dbm-stlseg)**
+
+💡 **Ultralytics 平台全面兼容**：
+本项目代码与权重全面兼容 **Ultralytics** 平台。您可以直接使用yolo标准测试代码加载上述下载的预训练权重，在真实桥梁巡检场景下进行快速的病害检测与分割测试；同时，这些权重也完全支持作为高质量的预训练基座，结合我们一并提供的配置文件，帮助您在自定义的数据集上继续训练与微调，大幅加速模型收敛并提升泛化能力。
+
+💡 **Fully Compatible with Ultralytics Platform**: 
+This project's code and weights are fully compatible with the **Ultralytics** platform. You can directly load the downloaded pre-trained weights using the YOLO standard test code to perform rapid defect detection and segmentation tests in real-world bridge inspection scenarios. Furthermore, these weights are also fully supported as high-quality pre-training bases. Combined with the configuration files we provide, they help you continue training and fine-tuning on custom datasets, significantly accelerating model convergence and improving generalization capabilities.
