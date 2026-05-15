@@ -1,0 +1,10 @@
+# data.yaml
+path: 
+val: val/images
+test: test/images
+nc: 3
+
+names:
+  0: Failure
+  1: Peeling
+  2: Corrosion

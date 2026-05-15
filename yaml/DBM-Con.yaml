@@ -1,0 +1,11 @@
+# data.yaml
+path: 
+val: val/images
+test: test/images
+nc: 4
+
+names:
+  0: Crack
+  1: Peeling
+  2: Corrosion
+  3: Hole

@@ -1,0 +1,12 @@
+# data.yaml
+path: 
+train: train/images                                    
+val: val/images                                         
+test: test/images                                       
+nc: 5                                                   
+names:
+  0: Crack
+  1: Efflorescence
+  2: Spalling
+  3: Exposed rebar
+  4: Hole

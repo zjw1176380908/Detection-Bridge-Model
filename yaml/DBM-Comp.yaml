@@ -1,0 +1,12 @@
+# data.yaml
+path: 
+val: val/images
+test: test/images
+nc: 5
+
+names:
+  0: Normal
+  1: Loose
+  2: Missing
+  3: Rust
+  4: Broken-cab
