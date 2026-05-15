@@ -9,7 +9,7 @@ We have centrally hosted the training weights on the **Kaggle platform**. You ca
 * **[DBM-Con](https://www.kaggle.com/datasets/zjw1176380908/dbm-con)**
 * **[DBM-Stl](https://www.kaggle.com/datasets/zjw1176380908/dbm-stl)**
 * **[DBM-Comp](https://www.kaggle.com/datasets/zjw1176380908/dbm-comp)**
-* **[DBM-Conseg置](https://www.kaggle.com/datasets/zjw1176380908/dbm-conseg)**
+* **[DBM-Conseg](https://www.kaggle.com/datasets/zjw1176380908/dbm-conseg)**
 * **[DBM-Stlseg](https://www.kaggle.com/datasets/zjw1176380908/dbm-stlseg)**
 
 💡 **Ultralytics 平台全面兼容**：
