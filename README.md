@@ -4,7 +4,7 @@
 
 ### 📦 Model Weights & Configuration Files Download
 
-Due to the large size of the model weight files, we have centrally hosted the training weights on the **Kaggle platform**. You can click the following link to obtain the complete resources for the corresponding task:
+We have centrally hosted the training weights on the **Kaggle platform**. You can click the following link to obtain the complete resources for the corresponding task:
 
 * **[DBM-Con](https://www.kaggle.com/datasets/zjw1176380908/dbm-con)**
 * **[DBM-Stl](https://www.kaggle.com/datasets/zjw1176380908/dbm-stl)**
